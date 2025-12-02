@@ -4,7 +4,10 @@ Data Analytics Portfolio | SQL . Excel . Tableau | Research Projects
 
 Welcome to my portfolio!  
 I am a Data Analytics learner with a strong background in *Biological Sciences, **Entomology, and **Research*.  
-I completed the *Cisco Data Analytics Essentials* course, where I developed skills in:
+I completed the *Cisco Data Analytics Essentials* course, where I developed skills in:[Bike_Sales_Prepare_Lab_3.4.7_Fixed.xlsx](https://github.com/user-attachments/files/23875090/Bike_Sales_Prepare_Lab_3.4.7_Fixed.xlsx)
+[Lab - Successful Movies.html](https://github.com/user-attachments/files/23874882/Lab.-.Successful.Movies.html)
+[Lab - Joining Tables.html](https://github.com/user-attachments/files/23874873/Lab.-.Joining.Tables.html)
+
 
 - SQL (queries, joins, filtering, aggregation)
 - Excel (cleaning, pivot tables, dashboards)
